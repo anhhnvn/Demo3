@@ -1,0 +1,7 @@
+D:\C shap\Diemsinhvien\Diemsinhvien\bin\Debug\Diemsinhvien.exe.config
+D:\C shap\Diemsinhvien\Diemsinhvien\bin\Debug\Diemsinhvien.exe
+D:\C shap\Diemsinhvien\Diemsinhvien\bin\Debug\Diemsinhvien.pdb
+D:\C shap\Diemsinhvien\Diemsinhvien\obj\Debug\Diemsinhvien.csproj.AssemblyReference.cache
+D:\C shap\Diemsinhvien\Diemsinhvien\obj\Debug\Diemsinhvien.csproj.CoreCompileInputs.cache
+D:\C shap\Diemsinhvien\Diemsinhvien\obj\Debug\Diemsinhvien.exe
+D:\C shap\Diemsinhvien\Diemsinhvien\obj\Debug\Diemsinhvien.pdb
